@@ -1,0 +1,37 @@
+
+    <!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta charset="utf-8" />
+<link rel="stylesheet" href="globals.css">
+<link rel="stylesheet" href="styleguide.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="element" ><div class="group" ><div class="ellipse" ></div>
+<div class="div" ></div>
+<div class="ellipse-2" ></div>
+<div class="ellipse-3" ></div>
+<div class="ellipse-4" ></div>
+<div class="ellipse-5" ></div>
+<img class="rectangle" src="img/rectangle-1.svg" />
+<img class="img" src="img/rectangle-2.svg" />
+<img class="rectangle-2" src="img/rectangle-3.svg" /></div>
+<img class="img-2" src="img/1.png" />
+<div class="in-end" ><div class="text-wrapper" >Logo</div>
+<div class="frame" ><div class="navbar" ><div class="text-wrapper-2" >О нас</div>
+<div class="text-wrapper-2" >Преимущества</div>
+<div class="text-wrapper-2" >Стоимость</div>
+<div class="text-wrapper-2" >Контакты</div></div>
+<div class="btn-main" ><div class="btn-main-2" ><div class="div-wrapper" ><div class="text-wrapper-3" >Связаться</div></div>
+<div class="vector-wrapper" ><img class="vector" src="img/vector-3.svg" /></div></div></div></div></div>
+<div class="text-wrapper-4" >Зверополис</div>
+<p class="p" >Ветеринарная помощь в Жуковском и Московской области</p>
+<div class="container" ><div class="container-2" ><div class="text-wrapper-5" >ВАКЦИНАЦИЯ</div></div>
+<div class="heading" ><p class="text-wrapper-6" >Забота о здоровье питомца по доступной цене</p></div>
+<div class="container-3" ><div class="text" ><div class="text-wrapper-7" >Узнать стоимость</div></div></div></div>
+<img class="image" src="img/image.png" />
+<img class="image-2" src="img/image-2.png" /></div>
+</body>
+</html>
